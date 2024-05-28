@@ -4,7 +4,7 @@
  [![NPM Express](https://img.shields.io/badge/NPM-Express-blue.svg)](https://www.npmjs.com/package/express)
  [![NPM Mongoose](https://img.shields.io/badge/NPM-Mongoose-blue.svg)]([https://www.npmjs.com/package/pg](https://www.npmjs.com/package/mongoose))
  
- https://text-editor-1-ls8c.onrender.com
+https://jensentext.onrender.com
 ## Description
 
 A browser-based text editor that operates as a single-page application (SPA) and meets Progressive Web App (PWA) standards. This application includes multiple data persistence methods to ensure redundancy in case some options are unsupported by the browser. Additionally, the application is designed to function offline.
