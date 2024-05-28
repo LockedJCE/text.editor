@@ -4,14 +4,16 @@
  [![NPM Express](https://img.shields.io/badge/NPM-Express-blue.svg)](https://www.npmjs.com/package/express)
  [![NPM Mongoose](https://img.shields.io/badge/NPM-Mongoose-blue.svg)]([https://www.npmjs.com/package/pg](https://www.npmjs.com/package/mongoose))
  
+ https://text-editor-1-ls8c.onrender.com
 ## Description
 
-
+A browser-based text editor that operates as a single-page application (SPA) and meets Progressive Web App (PWA) standards. This application includes multiple data persistence methods to ensure redundancy in case some options are unsupported by the browser. Additionally, the application is designed to function offline.
 
 ## Table of Contents
   * [Acceptance-Criteria](#acceptance-criteria)
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Credits](#credits)
   * [Contributing](#contributing)
 ## Acceptance-Criteria
     GIVEN a text editor web application
@@ -42,15 +44,26 @@
   ## Installation
 To get started clone this repository run npm i to install all the necessary files with "mongoose" and "express".
 <br>
+
 ```terminal
 git clone git@github.com:LockedJCE/text.editor.git
 ```
 
+```terminal
+npm install
+```
+
+or use my deployed render page link at the top.
+
 ## Usage
-   
+To take notes or write code snippets regardless of internet connectivity, ensuring they are securely saved and accessible for future use.
+
+## Credits 
+Starter code provided by https://github.com/coding-boot-camp/cautious-meme
+
 ## Contributing
 You can contribute via the following GitHub link.
 
-https://github.com/LockedJCE/Social-Mongoose
+https://github.com/LockedJCE/text.editor
 
 Clone the repo and request a merge via push of your contributions. If you have further questions please email me at Lockinjce@gmail.com.
